@@ -1,0 +1,26 @@
+body{
+    background-color: #f0f2f5;
+    margin: 0;
+}
+
+header {
+    background-color: #365a80;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #365a80;
+}
